@@ -11,3 +11,7 @@ MAILTRAP_ENDPOINT=https://send.api.mailtrap.io/
 
 CLIENT_URL= http://localhost:5173
 ```
+
+
+backend- npm start
+frontend- npm run dev
